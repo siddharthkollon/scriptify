@@ -8,7 +8,6 @@ arxiv
 pymupdf
 wikipedia
 langchain-text-splitters
-langchain-openAI
 sentence_transformers
 Langchain_huggingface
 faiss-cpu
@@ -18,3 +17,4 @@ beautifulsoup4
 streamlit
 groq
 python-dotenv
+langchain-groq
